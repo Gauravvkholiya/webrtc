@@ -3,3 +3,7 @@ numpy
 streamlit
 streamlit-webrtc
 ultralytics
+ultralytics
+torch
+nltk
+pyttsx3
